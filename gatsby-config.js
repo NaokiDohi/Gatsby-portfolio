@@ -47,7 +47,6 @@ module.exports = {
             type: `image/png`,
           },
         ],
-		
       },
     },
     `gatsby-plugin-offline`,
